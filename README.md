@@ -2,6 +2,10 @@
 
 Sistema que treina e testa um preditor de dados meteorológicos
 
+## Caso de Uso:
+
+Eu gostaria de prever a temperatura máxima porque isso permite realizar a ação de escolher o que vestir e se há a necessidade de ligar o ar-condicionado com antecedência
+
 ## Dados utilizados:
 
 Link: https://bdmep.inmet.gov.br/#
