@@ -4,7 +4,7 @@ Sistema que treina e testa um preditor de dados meteorológicos
 
 ## Caso de Uso:
 
-Eu gostaria de prever a temperatura máxima porque isso permite realizar a ação de escolher o que vestir e se há a necessidade de ligar o ar-condicionado com antecedência
+Eu gostaria de prever a temperatura máxima porque isso permite realizar a ação de escolher o que vestir e se há a necessidade de ligar o ar-condicionado ou o aquecedor com antecedência
 
 ## Dados utilizados:
 
