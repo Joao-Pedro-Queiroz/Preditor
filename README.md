@@ -35,3 +35,9 @@ Especificações dos dados:
 - Regiões: Sudeste
 - Variáveis: TEMPERATURA MAXIMA DIARIA (AUT)
 - Estações: SAO PAULO - INTERLAGOS (A771) - (SP)
+
+## Artigos cientifícos
+
+- ICTAES: https://www.ictaes.org/wp-content/uploads/2021/09/IJAE-Vol.04-No.02/IJAE_V4_No2_9.pdf?ckattempt=1
+- arSiv: https://ar5iv.labs.arxiv.org/html/2203.05835
+- Portal Embrapa: https://ainfo.cnptia.embrapa.br/digital/bitstream/item/35793/1/Luciano.pdf
